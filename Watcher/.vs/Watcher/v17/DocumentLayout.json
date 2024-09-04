@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ion\\Desktop\\Windows_FileSystem_Driver_Minifilter\\Watcher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFFB534-C704-4B90-BE45-71C4C35631B7}|Watcher\\Watcher.vcxproj|C:\\Users\\Ion\\Desktop\\Windows_FileSystem_Driver_Minifilter\\Watcher\\Watcher\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8FFFB534-C704-4B90-BE45-71C4C35631B7}|Watcher\\Watcher.vcxproj|solutionrelative:Watcher\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.c",
+              "DocumentMoniker": "C:\\Users\\Ion\\Desktop\\Windows_FileSystem_Driver_Minifilter\\Watcher\\Watcher\\FileName.c",
+              "RelativeDocumentMoniker": "Watcher\\FileName.c",
+              "ToolTip": "C:\\Users\\Ion\\Desktop\\Windows_FileSystem_Driver_Minifilter\\Watcher\\Watcher\\FileName.c",
+              "RelativeToolTip": "Watcher\\FileName.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-04T20:43:13.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
