@@ -1,12 +1,70 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Ion\\Desktop\\Windows_FileSystem_Driver_Minifilter\\Watcher\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFFB534-C704-4B90-BE45-71C4C35631B7}|Watcher\\Watcher.vcxproj|C:\\Users\\Ion\\Desktop\\Watcher.inf||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ion\\Desktop\\Windows_FileSystem_Driver_Minifilter\\Watcher\\Watcher\\x64\\Debug\\inf2catOutput.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Watcher\\x64\\Debug\\inf2catOutput.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFFB534-C704-4B90-BE45-71C4C35631B7}|Watcher\\Watcher.vcxproj|C:\\Users\\Ion\\Desktop\\Windows_FileSystem_Driver_Minifilter\\Watcher\\Watcher\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8FFFB534-C704-4B90-BE45-71C4C35631B7}|Watcher\\Watcher.vcxproj|solutionrelative:Watcher\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "inf2catOutput.log",
+              "DocumentMoniker": "C:\\Users\\Ion\\Desktop\\Windows_FileSystem_Driver_Minifilter\\Watcher\\Watcher\\x64\\Debug\\inf2catOutput.log",
+              "RelativeDocumentMoniker": "Watcher\\x64\\Debug\\inf2catOutput.log",
+              "ToolTip": "C:\\Users\\Ion\\Desktop\\Windows_FileSystem_Driver_Minifilter\\Watcher\\Watcher\\x64\\Debug\\inf2catOutput.log",
+              "RelativeToolTip": "Watcher\\x64\\Debug\\inf2catOutput.log",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-05T18:25:53.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Watcher.inf",
+              "DocumentMoniker": "C:\\Users\\Ion\\Desktop\\Watcher.inf",
+              "RelativeDocumentMoniker": "..\\..\\Watcher.inf",
+              "ToolTip": "C:\\Users\\Ion\\Desktop\\Watcher.inf",
+              "RelativeToolTip": "..\\..\\Watcher.inf",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAUwFUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002933|",
+              "WhenOpened": "2024-09-05T18:01:14.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileName.c",
+              "DocumentMoniker": "C:\\Users\\Ion\\Desktop\\Windows_FileSystem_Driver_Minifilter\\Watcher\\Watcher\\FileName.c",
+              "RelativeDocumentMoniker": "Watcher\\FileName.c",
+              "ToolTip": "C:\\Users\\Ion\\Desktop\\Windows_FileSystem_Driver_Minifilter\\Watcher\\Watcher\\FileName.c",
+              "RelativeToolTip": "Watcher\\FileName.c",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-04T20:43:13.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

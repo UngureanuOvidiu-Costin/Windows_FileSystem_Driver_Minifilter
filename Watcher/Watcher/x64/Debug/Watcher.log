@@ -1,0 +1,19 @@
+﻿  Building 'Watcher' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\Watcher.inf
+  Stamping [Version] section with DriverVer=09/05/2024,22.6.55.744
+C:\Users\Ion\Desktop\Watcher.inf(82-82): warning 1205: Section [MiniFilter.DriverFiles] referenced from CopyFiles and DelFiles directive.
+  Watcher.vcxproj -> C:\Users\Ion\Desktop\Windows_FileSystem_Driver_Minifilter\Watcher\x64\Debug\Watcher.sys
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\Ion\Desktop\Windows_FileSystem_Driver_Minifilter\Watcher\x64\Debug\Watcher\watcher.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Ion\Desktop\Windows_FileSystem_Driver_Minifilter\Watcher\x64\Debug\Watcher\watcher.cat
+  
